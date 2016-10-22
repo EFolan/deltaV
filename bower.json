@@ -1,0 +1,20 @@
+{
+  "name": "pluralsightnodeapp",
+  "description": "For the node js express course",
+  "main": "app.js",
+  "authors": [
+    "Enda Folan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3"
+  }
+}

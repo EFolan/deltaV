@@ -1,0 +1,15 @@
+{
+  "name": "pluralsightnodeapp",
+  "version": "1.0.0",
+  "description": "For the node js express course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Enda Folan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
