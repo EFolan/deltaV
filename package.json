@@ -10,6 +10,18 @@
   "author": "Enda Folan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "jshint-stylish": "^2.2.1",
+    "nodemon": "^1.11.0",
+    "wiredep": "^4.0.0"
   }
 }
